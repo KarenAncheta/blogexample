@@ -1,0 +1,2 @@
+# blogexample
+practice area
